@@ -49,10 +49,6 @@ This app is built to be fully responsive, ensuring a smooth user experience acro
 2. Open `index.html` in your browser to start using the app.
 3. Optionally, modify `main.js` or `style.css` to customize the content and appearance.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - The project was built using Vanilla JavaScript for simplicity and ease of customization.
