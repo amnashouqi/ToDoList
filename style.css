@@ -152,7 +152,7 @@ p {
 body {
     margin: 0;
     height: 100vh; /* Make the body height cover the entire viewport */
-    background-image: url('bg.jpg');
+    background-image: url('Images/bg.jpg');
     background-size: cover; /* Ensures the background image covers the full screen */
     background-position: center; /* Centers the background image */
     background-repeat: no-repeat; /* Prevents the image from repeating */

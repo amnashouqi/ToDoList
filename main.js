@@ -8,9 +8,9 @@ Functionalilties of the main.js file:
 6. done - When the page is visited, the list is empty
 7. done - When the page is visited, the text input box is empty
 8. done - When the page is visited, the add button is disabled
-9. the actual time and date is displayed on the page
-10. the time is updated every second
-11. everything is inside the stage
+9. done - the actual time and date is displayed on the page
+10. done - the time is updated every second
+11. done - everything is inside the stage
 */
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -108,9 +108,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 <span>${itemText}</span>`;
     
             const deleteButton = document.createElement("img");
-            deleteButton.src = "bin.png"; 
+            deleteButton.src = "Images/bin.png"; 
             deleteButton.alt = "Delete";
-            deleteButton.className = "bin"; // Add a class for styling
+            deleteButton.className = "bin"; 
             deleteButton.addEventListener("click", function () {
                 todoList.removeChild(listItem);
                 toggleListVisibility();
