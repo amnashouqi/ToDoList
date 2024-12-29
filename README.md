@@ -20,10 +20,10 @@ A simple, interactive to-do list web application built with HTML, CSS, and Vanil
 
 Here are a few screenshots showing the app's interface:
 
-![Screenshot 1](display.png)  
+![Screenshot 1](Images/display.png)  
 *Desktop view of the app with time and task input.*
 
-![Screenshot 2](display-beforeAddingTasks.png)  
+![Screenshot 2](Images/display-beforeAddingTasks.png)  
 *Mobile view showing the responsive design.*
 
 ## How It Works
